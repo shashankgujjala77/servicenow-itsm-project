@@ -1,110 +1,81 @@
-# ServiceNow ITSM Implementation & Automation
-
-## Problem Statement
-
-This project focuses on improving IT service management processes using ServiceNow. It helps in understanding how incidents, service requests, and workflows are handled in a structured way within an organization.
-
-Through this implementation, it becomes easier to identify delays in ticket resolution, inefficiencies in manual processes, and areas where automation can improve overall service delivery.
-
-Since manual handling of tickets can lead to delays and inconsistencies, automation and workflow-based processing are introduced to improve efficiency and reduce effort.
+## 👨‍💻 GUJJALA SAI SHASHANK  
+ServiceNow Developer | ITSM | HRSD | Service Catalog | Flow Designer  
 
 ---
 
-## Steps Followed
-
-Step 1 : Created a ServiceNow Personal Developer Instance to simulate a real-time ITSM environment.
-
-Step 2 : Explored core ITSM modules such as Incident, Problem, Change, and Service Request.
-
-Step 3 : Configured Incident Management module with fields like priority, category, and assignment group.
-
-Step 4 : Implemented Business Rules to automate ticket assignment based on conditions.
-
-Step 5 : Designed workflows using Flow Designer to automate ticket routing and escalation.
-
-Step 6 : Created Service Catalog items to simulate user requests and service fulfillment.
-
-Step 7 : Configured approval workflows for request processing.
-
-Step 8 : Implemented SLA definitions to track ticket resolution and response times.
-
-Step 9 : Configured notifications to keep users informed about ticket status updates.
-
-Step 10 : Explored Access Control (ACL) to understand role-based security.
-
-Step 11 : Worked with Import Sets and Transform Maps to understand data handling.
-
-Step 12 : Tested complete ticket lifecycle from creation to closure to validate workflow behavior.
+# 🚀 ServiceNow Projects  
 
 ---
 
-## Features Implemented
+## 🔹 Employee Onboarding Application  
 
-- Incident Management with priority-based handling  
-- Service Request & Catalog implementation  
-- Workflow automation using Flow Designer  
-- SLA tracking and notification system  
-- Role-based access control using ACL  
-- Basic scripting using Business Rules and Client Scripts  
+### 📌 Problem Statement  
+This application helps automate the employee onboarding process. It enables organizations to manage new employee requests, approvals, and task assignments across departments like HR, IT, and Admin.
 
----
+### 🛠️ Steps Followed  
+- Step 1: Created Service Catalog, Categories, and Catalog Items  
+- Step 2: Designed form variables to capture employee details  
+- Step 3: Developed Record Producers and Order Guides  
+- Step 4: Configured Flow Designer for approval workflows  
+- Step 5: Automated task creation and assignment to teams  
+- Step 6: Implemented Business Rules and Client Scripts for validations  
+- Step 7: Configured notifications and request tracking  
 
-## Project Snapshot (ServiceNow)
-
-(Add screenshots here)
-
----
-
-## Outcome
-
-- Reduced manual effort in ticket handling by approximately 20–25%  
-- Improved efficiency of request processing by around 15–20%  
-- Better understanding of ticket lifecycle and ITSM processes  
-- Improved workflow automation and reduced manual dependency  
+### 📊 Outcome  
+- Automated onboarding process  
+- Reduced manual effort  
+- Improved request tracking and efficiency  
 
 ---
 
-## Insights
+## 🔹 HRSD Dongle Request Management  
 
-### [1] Ticket Handling Efficiency
-- Automated workflows reduced manual intervention  
-- Faster assignment and escalation improved response time  
+### 📌 Problem Statement  
+This application helps streamline the process of requesting, approving, and issuing dongles to employees using the HRSD module.
 
----
+### 🛠️ Steps Followed  
+- Step 1: Configured HRSD module and required roles  
+- Step 2: Created Service Catalog item for dongle request  
+- Step 3: Designed form fields and UI policies  
+- Step 4: Configured approval workflow using Flow Designer  
+- Step 5: Implemented Business Rules for request processing  
+- Step 6: Enabled tracking and status updates  
 
-### [2] SLA Tracking
-- SLA configuration helped in monitoring ticket timelines  
-- Improved visibility on pending and overdue tasks  
-
----
-
-### [3] Workflow Automation
-- Flow Designer simplified ticket lifecycle  
-- Reduced dependency on manual actions  
-
----
-
-### [4] Service Request Handling
-- Service Catalog improved structured request processing  
-- Approval workflows ensured controlled request handling  
+### 📊 Outcome  
+- Automated request lifecycle  
+- Improved visibility of requests  
+- Structured approval process  
 
 ---
 
-## Tools Used
+## 🔹 Employee Laptop Request & Approval System  
 
-- ServiceNow ITSM  
-- Flow Designer  
-- Business Rules & Client Scripts  
-- JavaScript (Basic)  
+### 📌 Problem Statement  
+This system automates the process of requesting and approving laptops for employees, reducing manual work and improving efficiency.
+
+### 🛠️ Steps Followed  
+- Step 1: Created Service Catalog item for laptop request  
+- Step 2: Designed form variables and validation rules  
+- Step 3: Configured workflow for IT review and approval  
+- Step 4: Implemented Business Rules and Client Scripts  
+- Step 5: Automated request lifecycle from submission to completion  
+- Step 6: Enabled tracking of request status  
+
+### 📊 Outcome  
+- Streamlined approval process  
+- Reduced manual intervention  
+- Improved request tracking  
 
 ---
 
-## Conclusion
-
-This project helped in understanding how IT service management processes are implemented in real-world environments. It also provided hands-on experience in workflow automation and ticket lifecycle management using ServiceNow.
+## 🛠️ Technologies Used  
+- ServiceNow (ITSM, HRSD, Service Catalog)  
+- Flow Designer, Workflow Editor  
+- Business Rules, Client Scripts, UI Policies  
+- JavaScript, Glide APIs  
+- REST APIs, Postman  
 
 ---
 
-## Note
-
-This project was implemented in a personal ServiceNow developer instance as part of hands-on learning and practical exposure to ITSM processes.
+## 📄 Resume  
+👉 [Download Resume](./Gujjala_Sai_Shashank_Resume.pdf)
