@@ -77,5 +77,3 @@ This system automates the process of requesting and approving laptops for employ
 
 ---
 
-## 📄 Resume  
-👉[Shashank_ServiceNow_SNOW Developer.pdf](https://github.com/shashankgujjala77/servicenow-itsm-project/blob/main/Shashank_ServiceNow_SNOW%20Developer.pdf)
